@@ -4,3 +4,4 @@ git commit
 git status
 git rebase
 git checkout
+git add .
